@@ -33,7 +33,7 @@ CSS STRUCTURE:
   --custom-easing: cubic-bezier(.17, .67, .83, .67);
 
   /* theme colors */
-  --bs-body-font-family: "Century Gothic", Verdana, sans-serif;
+  --bs-body-font-family: "CenturyGothic", Verdana, sans-serif;
   --bs-body-font-size: 0.9rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.7;
@@ -99,7 +99,7 @@ a {
 }
 
 @font-face {
-	font-family: "Century Gothic";
+	font-family: "CenturyGothic";
 	src: url(fonts/centurygothic.ttf);
 }
 

@@ -93,6 +93,11 @@ h6,
   color: var(--heading-color);
 }
 
+@font-face {
+	font-family: Century Gothic;
+	src: url(/fonts/centurygothic.ttf);
+}
+
 a {
   text-decoration: none;
   transition: all 0.3s ease-out;

@@ -98,6 +98,11 @@ a {
   transition: all 0.3s ease-out;
 }
 
+@font-face {
+	font-family: "Century Gothic";
+	src: url(fonts/centurygothic.ttf);
+}
+
 /* Dropdown */
 .dropdown-menu {
   --bs-dropdown-border-radius: 0;
